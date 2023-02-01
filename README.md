@@ -1,5 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# A simple tic-tac-toe game made use rust
+A simple game, can be ran by
+```
+cargo run
+```
 
 ## References
 
