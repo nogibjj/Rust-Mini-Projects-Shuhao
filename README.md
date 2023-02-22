@@ -1,9 +1,18 @@
-# A simple tic-tac-toe game made use rust
-A simple game, can be ran by
+## Week2 - A simple tic-tac-toe game made use rust
+- A simple game, can be ran by
 ```
 cargo run
 ```
 
-## References
+## Week3 - cypto currency price crawler
+- A crawler which can get real-time cypto currency price using ```CoinGecko``` API, return currency price as ```JSON``` format.
+
+## Week4 - a simple guess number game
+- Generate number randomly, user shall guess this number by type in command line. You can guess this number by tips return. It will tell you "too low" or "too high" recording to your input.
+
+## Week5 - Longest Palindrome
+- Return the longest Palindrome subsequence based on your input.
+
+### References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
