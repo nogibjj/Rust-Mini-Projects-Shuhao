@@ -13,6 +13,9 @@ cargo run
 ## Week5 - Longest Palindrome
 - Return the longest Palindrome subsequence based on your input.
 
+## Week6 - Strong Password Generator
+- Return a random generated a 16-byte long strong password.
+
 ### References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
