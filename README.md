@@ -16,6 +16,9 @@ cargo run
 ## Week6 - Strong Password Generator
 - Return a random generated a 16-byte long strong password.
 
+## Week7 - synonym
+- Give me a word, and I will give you the synonyms of this word.
+
 ### References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
