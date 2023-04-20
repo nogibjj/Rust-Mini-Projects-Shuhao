@@ -1,10 +1,10 @@
-## Week2 - A simple tic-tac-toe game made use rust
+## Week1 - A simple tic-tac-toe game made use rust
 - A simple game, can be ran by
 ```
 cargo run
 ```
 
-## Week3 - cypto currency price crawler
+## Week2 - cypto currency price crawler
 - A crawler which can get real-time cypto currency price using ```CoinGecko``` API, return currency price as ```JSON``` format.
 
 ## Week4 - a simple guess number game
