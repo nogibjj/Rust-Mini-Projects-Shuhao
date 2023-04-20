@@ -19,6 +19,20 @@ cargo run
 ## Week7 - synonym
 - Give me a word, and I will give you the synonyms of this word.
 
+## Week8 - pixle image
+
+- Input image url in the terminal and print out the pixel version of that image in terminal! The output pixel image size will be adjusted according to your terminal size
+- example
+  - image (url: https://static.vecteezy.com/system/resources/previews/009/208/603/original/simple-minimalist-cartoon-cute-cat-logo-free-vector.jpg)
+  
+  <img src="https://static.vecteezy.com/system/resources/previews/009/208/603/original/simple-minimalist-cartoon-cute-cat-logo-free-vector.jpg" alt="Cartoon cat" width="30%" height="30%">
+  
+  - output
+  
+  ![image](https://user-images.githubusercontent.com/33047941/233443381-3b15b7e1-0311-4553-948f-9ea07c80950a.png)
+
+  
+
 ### References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
