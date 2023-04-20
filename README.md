@@ -7,6 +7,14 @@ cargo run
 ## Week2 - cypto currency price crawler
 - A crawler which can get real-time cypto currency price using ```CoinGecko``` API, return currency price as ```JSON``` format.
 
+## Week2 - temporature translator
+- Turn the input temporature from C to F or from F to C.
+    - example usage
+    
+    ![image](https://user-images.githubusercontent.com/33047941/233463327-73c589eb-0e90-4f49-9626-721153b8db5f.png)
+
+    
+
 ## Week4 - a simple guess number game
 - Generate number randomly, user shall guess this number by type in command line. You can guess this number by tips return. It will tell you "too low" or "too high" recording to your input.
 
