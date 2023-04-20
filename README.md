@@ -31,7 +31,14 @@ cargo run
   
   ![image](https://user-images.githubusercontent.com/33047941/233443381-3b15b7e1-0311-4553-948f-9ea07c80950a.png)
 
-  
+
+## Week9 - Movie Night
+- Input keywords and recommend a movie based on the keyword you input.
+
+  - output
+    
+    ![image](https://user-images.githubusercontent.com/33047941/233456240-b915ae0f-3eaf-4e7d-94c3-d9cf7da45591.png)
+
 
 ### References
 
