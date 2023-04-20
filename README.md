@@ -38,6 +38,13 @@ cargo run
   - output
     
     ![image](https://user-images.githubusercontent.com/33047941/233456240-b915ae0f-3eaf-4e7d-94c3-d9cf7da45591.png)
+    
+## Week10 - Quadratic equation solver
+- Input the three coefficient for the quadratic equation (0 for empty), and this program will give you the roots of this quadratic equation.
+
+- example for solving x^2 = 4
+![image](https://user-images.githubusercontent.com/33047941/233458775-ab980c40-9bf7-416f-ac4c-bb9c78413f52.png)
+
 
 
 ### References
