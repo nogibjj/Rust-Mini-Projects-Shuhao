@@ -1,0 +1,9 @@
+[package]
+name = "pixel"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+image = "0.24.5"
+attohttpc = "0.25.0"
+crossterm = "0.26.0"
